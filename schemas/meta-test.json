@@ -1,0 +1,17 @@
+{
+  "$schema": "http://json-schema.org/draft-06/schema#",
+  "$id": "meta-test.json",
+  "type": "object",
+
+  "properties": {
+    "data": {
+      "type": "object",
+      "properties": {
+        "test": {
+          "type": "number"
+        }
+      },
+      "required": [ "test" ]
+    }
+  }
+}
