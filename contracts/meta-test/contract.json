@@ -1,0 +1,15 @@
+{
+   "contract": {
+      "slug": "fuzzy-fortnight",
+      "type": "meta-test",
+      "version": "1",
+      "componentVersion": "0.0.1",
+      "name": "fuzzy fortnight",
+      "aliases": [],
+      "tags": [],
+      "data": {
+         "test": 0,
+         "path": "./path-to-file"
+      }
+   }
+}
