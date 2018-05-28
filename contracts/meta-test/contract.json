@@ -6,7 +6,7 @@
   "aliases": [],
   "tags": [],
   "data": {
-    "test": 2,
+    "test": 3,
     "path": "./path-to-file"
   },
   "componentVersion": "v0.1.0"
