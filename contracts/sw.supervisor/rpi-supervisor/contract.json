@@ -1,13 +1,13 @@
 {
-	"type": "sw.supervisor",
-	"name": "Resin supervisor",
-	"version": "1",
-	"aliases": [],
-	"tags": [],
-	"data": {
-		"docker_tag": "v1.2.3",
-		"arch": "rpi"
-	},
-	"componentVersion": "1.2.3",
-	"slug": "rpi-supervisor"
+  "type": "sw.supervisor",
+  "name": "Resin supervisor",
+  "version": "1",
+  "aliases": [],
+  "tags": [],
+  "data": {
+    "docker_tag": "v1.2.3",
+    "arch": "rpi"
+  },
+  "componentVersion": "1.2.3",
+  "slug": "rpi-supervisor"
 }

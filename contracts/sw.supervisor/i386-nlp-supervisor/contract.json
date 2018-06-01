@@ -1,13 +1,13 @@
 {
-	"type": "sw.supervisor",
-	"name": "Resin supervisor",
-	"version": "1",
-	"aliases": [],
-	"tags": [],
-	"data": {
-		"docker_tag": "v1.2.3",
-		"arch": "i386-nlp"
-	},
-	"componentVersion": "1.2.3",
-	"slug": "i386-nlp-supervisor"
+  "type": "sw.supervisor",
+  "name": "Resin supervisor",
+  "version": "1",
+  "aliases": [],
+  "tags": [],
+  "data": {
+    "docker_tag": "v1.2.3",
+    "arch": "i386-nlp"
+  },
+  "componentVersion": "1.2.3",
+  "slug": "i386-nlp-supervisor"
 }
