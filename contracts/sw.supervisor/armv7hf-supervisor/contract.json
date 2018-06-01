@@ -1,0 +1,13 @@
+{
+	"type": "sw.supervisor",
+	"name": "Resin supervisor",
+	"version": "1",
+	"aliases": [],
+	"tags": [],
+	"data": {
+		"docker_tag": "v1.2.3",
+		"arch": "armv7hf"
+	},
+	"componentVersion": "1.2.3",
+	"slug": "armv7hf-supervisor"
+}

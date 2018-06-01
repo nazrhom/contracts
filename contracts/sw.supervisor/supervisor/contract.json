@@ -1,0 +1,10 @@
+{
+	"type": "sw.supervisor",
+	"name": "Resin supervisor",
+	"version": "1",
+	"aliases": [],
+	"tags": [],
+	"data": {},
+	"componentVersion": "1.2.3",
+	"slug": "supervisor"
+}
