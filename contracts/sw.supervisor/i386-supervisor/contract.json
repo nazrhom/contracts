@@ -1,13 +1,13 @@
 {
+  "componentVersion": "v1.5.2",
   "type": "sw.supervisor",
-  "name": "Resin supervisor",
+  "name": "Resinio supervisor",
   "version": "1",
   "aliases": [],
   "tags": [],
   "data": {
-    "docker_tag": "v1.2.3",
+    "docker_tag": "vv1.5.2",
     "arch": "i386"
   },
-  "componentVersion": "1.2.3",
   "slug": "i386-supervisor"
 }
