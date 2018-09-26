@@ -1,0 +1,9 @@
+type: sw.supervisor
+name: Resinio supervisor
+version: 1.0.0
+tags: []
+data:
+  docker_tag: v1.121.0
+  arch: i386-nlp
+componentVersion: 1.121.0
+slug: i386-nlp-supervisor
